@@ -1,0 +1,6 @@
+{
+  "parent": "void_cube:block/two_layer",
+  "textures": {
+    "base": "void_cube:block/void_alt"
+  }
+}

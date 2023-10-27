@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "void_cube",
+  "version": "${version}",
+  "name": "Void Cube",
+  "description": "Adds decorative blocks featuring the end sky shader effect",
+  "authors": [
+    "ageuxo",
+    "oude_henky"
+  ],
+  "contact": {
+    "repo": "https://github.com/ageuxo/untitled"
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/void_cube/textures/block/void_alt.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.ageuxo.void_cube.client.VoidCubeClient"
+    ],
+    "main": [
+      "io.github.ageuxo.void_cube.VoidCubeMod"
+    ]
+  },
+  "mixins": [
+    "void_cube.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

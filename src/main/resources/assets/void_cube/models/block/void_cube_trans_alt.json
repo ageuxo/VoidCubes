@@ -1,0 +1,6 @@
+{
+  "parent": "void_cube:block/void_cube_trans",
+  "textures": {
+    "all": "void_cube:block/void_alt"
+  }
+}

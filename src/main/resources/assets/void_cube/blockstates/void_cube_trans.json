@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "void_cube:block/void_cube_trans" }
+  }
+}

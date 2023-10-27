@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "void_cube:void_cube",
+    "void_cube:void_cube_alt",
+    "void_cube:void_cube_trans",
+    "void_cube:void_cube_trans_alt"
+  ]
+}
